@@ -1,5 +1,5 @@
 # 😄 Olá! Eu sou a Anna Lyvia Medeiros.
-- 🎓 Projetos da faculdade, atualmente estou no primeiro período.
+- 🎓 Projetos da faculdade, atualmente estou no primeiro período do curso de sistemas para internet.
 - 📚 Estudando Python, HTML e CSS.
 
 
